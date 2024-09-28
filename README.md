@@ -26,6 +26,8 @@ bbbbbbbbbrrrrrrrrrrrrrrrrrrrrr
 hello
 push to github
 
+pull  test  (edit in github)
+
 Let's show you how to select and modify code with our API
 
 ### In
